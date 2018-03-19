@@ -4,7 +4,7 @@ function mock_arr_data(length){
         arr.push(Math.floor(Math.random()*100))
     }
     return arr
-};
+}
 
 module.exports = {
     mock_arr_data
